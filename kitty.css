@@ -1,0 +1,20 @@
+body{
+	background-color:black;
+	background-image: url(https://user-images.githubusercontent.com/26975066/30717198-f92460d8-9ed0-11e7-824d-82c63c88bf97.gif); 
+}
+@media screen and (max-width: 340px) {  
+img {
+	content:url(https://user-images.githubusercontent.com/26975066/30717252-20ba9086-9ed1-11e7-84ec-40b7074d60c9.png);
+}	
+.loaf {
+	content:url(https://user-images.githubusercontent.com/26975066/30717020-8c6a54e8-9ed0-11e7-8c70-9aae7381fb7f.gif);
+}
+}
+@media screen and (min-width: 475px) {  
+img {
+	content:url(https://user-images.githubusercontent.com/26975066/30716472-05a01ff2-9ecf-11e7-9584-c41b77cba5a6.png);
+}
+@media screen and (min-width: 675px) {
+img {
+	content:url(https://user-images.githubusercontent.com/26975066/30716421-d465aea2-9ece-11e7-965b-45355a1eb391.png);
+}
